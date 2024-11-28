@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "role": "Co-Founder",
+      "organisation": "LNMGamers",
+      "startDate": "Feb, 2023",
+      "endDate": "Aug,2023",
+      "location": "Jaipur",
+      "experiences": [
+        "Launched a gaming lounge tailored for college students.",
+        "Developed an intuitive website for real-time slot bookings.",
+        "Streamlined the booking process with an online reservation system."
+      ],
+      "imageSrc": "company/lnm_gamers_lo.jpg"
+    },
+    {
+      "id": 2,
+      "role": "Front-end Developer Intern",
+      "organisation": "The LNM Institute of Information Technolog",
+      "startDate": "May, 2024",
+      "endDate": "Jul, 2024",
+      "location": "Jaipur",
+      "experiences": [
+        "Engineered front-end solutions for a React-based energy conservation project.",
+        "Contributed to research-focused development using ReactJS, JavaScript, and CSS"
+      ],
+      "imageSrc": "company/lnm_logo.png"
+    }
+  ]
