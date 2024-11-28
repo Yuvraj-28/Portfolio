@@ -28,6 +28,10 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
+      "title": "  NodeJs",
+      "imageSrc": "skills/node.png"
+    },
+    {
         "title": "C++ Programming",
         "imageSrc": "skills/c++.png"
     },
